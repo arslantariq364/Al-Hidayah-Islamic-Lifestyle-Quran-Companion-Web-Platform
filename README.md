@@ -1,0 +1,2 @@
+# Al-Hidayah-Islamic-Lifestyle-Quran-Companion-Web-Platform
+Al-Hidayah is a PostgreSQL-powered Islamic platform offering the Holy Quran in Arabic with multilingual translations and smart bookmarks. It provides location-based prayer times, Ramadan Sehri/Iftar schedules, an Islamic calendar, and a daily prayer tracker with progress reports, showcasing normalization, triggers, search, and geolocation queries.
